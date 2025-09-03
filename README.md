@@ -1,5 +1,6 @@
 <body>
 <h1 align="center">Con ustedes DAN</h1>
+<img src="img/banner git.jpg"></img>
 <a href="https://www.behance.net/danielgarca10" target="_blank">Behance</a>
 <!--
 **Dan6090/Dan6090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
