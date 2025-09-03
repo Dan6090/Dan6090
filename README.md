@@ -1,8 +1,6 @@
 <body>
 <h1 align="center" style="color: #008000">Con ustedes DAN</h1>
-<span style="color: #008000">Texto verde</span>
 <img src="img/banner git.jpg"></img>
-<span style="color: #FF0000">Este texto es rojo</span>
 <a href="https://www.behance.net/danielgarca10" target="_blank">Behance</a>
 <!--
 **Dan6090/Dan6090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
